@@ -83,14 +83,10 @@ To run the script automatically, add it to your crontab:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-[Choose appropriate license - MIT, GPL, etc.]
-
 ## Author
+Pesa
 
-[Your Name/Username]
-
-## Acknowledgments
+Project URL
+https://github.com/Pesa-Rasho/Server-Performance-Stats
 
 Built using standard Linux utilities for system monitoring.
